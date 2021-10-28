@@ -3,6 +3,7 @@
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taylortreece)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylortreece&layout=compact)](https://github.com/taylortreece)
 
 <h2><strong>Languages:</strong></h2>
 
