@@ -1,4 +1,7 @@
 ### Hi there 👋
+<p>
+    <img src="https://user-images.githubusercontent.com/67558267/139297953-af49ffca-f85d-4056-9451-26937a491e45.png" alt="my banner">
+</p>
 
 <!--
 **taylortreece/taylortreece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
