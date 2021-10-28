@@ -34,7 +34,9 @@
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 <h2><strong>Let's Connect:</strong><h2>
-    <a href=”https://www.linkedin.com/in/taylor-treece-602194200">LinkedIn</a> <a href=”https://taylortreece.com/index.html">Portfolio Website</a>
+    <a href="https://www.linkedin.com/in/taylor-treece-602194200">LinkedIn</a> 
+    
+    <a href="https://taylortreece.com/index.html">Portfolio Website</a>
 
 <!--
 **taylortreece/taylortreece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
