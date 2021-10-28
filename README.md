@@ -36,17 +36,17 @@
 <h2><strong>Let's Connect:</strong><h2>
     <a href="https://www.linkedin.com/in/taylor-treece-602194200">LinkedIn</a> 
 
-<!--
+
 **taylortreece/taylortreece** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on developing an application for students to learn music theory.
+    Using a custom made Rails API, the fundamentals of music theory are available in a 
+    song-building sandbox, using Tone.js to play audio through the client's speakers.
+    <a href="https://music-theory-coordinator.netlify.app/">check it out here</a>
+- 🌱 I’m currently learning how to implement Ecommerce in a Fullstack web applications
+- 👯 I’m looking to collaborate on projects any project I can learn from.
+- 💬 Ask me about what I can do to help with your projects!
+- 📫 How to reach me: taylor@taylortreece.com
 - ⚡ Fun fact: ...
--->
