@@ -1,5 +1,5 @@
 <p>
-    <img src="https://user-images.githubusercontent.com/67558267/139297953-af49ffca-f85d-4056-9451-26937a491e45.png" alt="my banner">
+    <img src="https://user-images.githubusercontent.com/67558267/139310845-52ad09d6-43f4-4f4e-8941-08435c7bba0f.png" alt="my banner">
 </p>
 
 <h2><strong>Languages & Frameworks:</strong></h2>
