@@ -38,9 +38,9 @@
 
 <h2><strong>About Me:</strong><h2>
 
-- 🔭 I’m currently working on developing my <a href="https://github.com/taylortreece/music-theory-coordinator">Music Theory Coordinator</> application for students to learn music theory.
-    Using a custom made Rails API, the fundamentals of music theory are available in a 
-    song-building sandbox, using Tone.js to play audio through the client's speakers.
+- 🔭 I’m currently working on developing my <a href="https://github.com/taylortreece/music-theory-coordinator">Music Theory Coordinator</a> application for students to learn music theory.
+    Using a custom made Rails API and Tone.js, the fundamentals of music theory are available in a 
+    song-building sandbox that plays audio through the client's speakers.
     <a href="https://music-theory-coordinator.netlify.app/" target="_blank">check it out here</a>
 - 🌱 I’m currently learning how to implement Ecommerce in a Fullstack web applications
 - 👯 I’m looking to collaborate on any project I can learn from.
