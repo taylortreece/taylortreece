@@ -38,7 +38,7 @@
 
 <h2><strong>About Me:</strong><h2>
 
-- 🔭 I’m currently working on developing an application for students to learn music theory.
+- 🔭 I’m currently working on developing my <a href="https://github.com/taylortreece/music-theory-coordinator">Music Theory Coordinator</> application for students to learn music theory.
     Using a custom made Rails API, the fundamentals of music theory are available in a 
     song-building sandbox, using Tone.js to play audio through the client's speakers.
     <a href="https://music-theory-coordinator.netlify.app/" target="_blank">check it out here</a>
