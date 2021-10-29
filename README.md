@@ -42,7 +42,7 @@
     Using a custom made Rails API and Tone.js, the fundamentals of music theory are available in a 
     song-building sandbox that plays audio through the client's speakers.
     <a href="https://music-theory-coordinator.netlify.app/" target="_blank">check it out here</a>
-- 🌱 I’m currently learning how to implement Ecommerce in a Fullstack web applications
+- 🌱 I’m currently learning how to implement Ecommerce in Fullstack web applications
 - 👯 I’m looking to collaborate on any project I can learn from.
 - 💬 Ask me about what I can do to help with your projects!
 - 📫 How to reach me: taylor@taylortreece.com
