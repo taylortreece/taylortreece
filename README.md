@@ -6,6 +6,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylortreece&layout=compact)](https://github.com/taylortreece)
 
 <h2><strong>TryHackMe:</strong></h2>
+
 ![tryhackme stats](https://raw.githubusercontent.com/taylortreece/taylortreece/master/assets/thm_propic.png)
 
 <h2><strong>Languages:</strong></h2>
