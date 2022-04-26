@@ -15,4 +15,4 @@ jobs:
         with:
           # Replace with your tryhackme username
           username: "kill.joy"
-          GITHUB_TOKEN: "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"
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
