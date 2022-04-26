@@ -5,6 +5,9 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taylortreece)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylortreece&layout=compact)](https://github.com/taylortreece)
 
+<h2><strong>TryHackme Stats</strong><h2>
+![tryhackme stats](https://raw.githubusercontent.com/taylortreece/taylortreece/master/assets/thm_propic.png)
+
 <h2><strong>Languages:</strong></h2>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -34,14 +37,14 @@
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 <h2><strong>Let's Connect:</strong><h2>
-    <a href="https://www.linkedin.com/in/taylor-treece-602194200">LinkedIn</a> 
+    <a href="https://www.linkedin.com/in/taylor-treece-602194200">LinkedIn</a>
 
 <h2><strong>About Me:</strong><h2>
 
 - 🔭 Currently working on developing my <a href="https://github.com/taylortreece/music-theory-coordinator">Music Theory Coordinator</a> application for students to learn music theory.
-    Using a custom made Rails API and Tone.js, the fundamentals of music theory are available in a 
-    song-building sandbox that plays audio through the client's speakers.
-    <a href="https://music-theory-coordinator.netlify.app/" target="_blank">Check it out here</a>
+  Using a custom made Rails API and Tone.js, the fundamentals of music theory are available in a
+  song-building sandbox that plays audio through the client's speakers.
+  <a href="https://music-theory-coordinator.netlify.app/" target="_blank">Check it out here</a>
 - 🌱 Currently learning how to implement Ecommerce in Fullstack web applications
 - 👯 Looking to collaborate on any project I can learn from.
 - 💬 Ask me about what I can do to help with your projects!
