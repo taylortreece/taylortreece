@@ -4,7 +4,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taylortreece)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylortreece&layout=compact)](https://github.com/taylortreece)
-
+![tryhackme stats](https://raw.githubusercontent.com/taylortreece/taylortreece/master/assets/thm_propic.png)
 <h2><strong>Languages:</strong></h2>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
