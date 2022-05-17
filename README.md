@@ -2,8 +2,6 @@
     <img src="https://user-images.githubusercontent.com/67558267/139297953-af49ffca-f85d-4056-9451-26937a491e45.png" alt="my banner">
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taylortreece)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taylortreece&layout=compact)](https://github.com/taylortreece)
 
 <h2><strong>TryHackMe:</strong></h2>
 
