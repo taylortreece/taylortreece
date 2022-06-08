@@ -37,14 +37,3 @@
 
 <h2><strong>Let's Connect:</strong><h2>
     <a href="https://www.linkedin.com/in/taylor-treece-602194200">LinkedIn</a>
-
-<h2><strong>About Me:</strong><h2>
-
-- 🔭 Currently working on developing my <a href="https://github.com/taylortreece/music-theory-coordinator">Music Theory Coordinator</a> application for students to learn music theory.
-  Using a custom made Rails API and Tone.js, the fundamentals of music theory are available in a
-  song-building sandbox that plays audio through the client's speakers.
-  <a href="https://music-theory-coordinator.netlify.app/" target="_blank">Check it out here</a>
-- 🌱 Currently learning how to implement Ecommerce in Fullstack web applications
-- 👯 Looking to collaborate on any project I can learn from.
-- 💬 Ask me about what I can do to help with your projects!
-- 📫 How to reach me: taylor@taylortreece.com
